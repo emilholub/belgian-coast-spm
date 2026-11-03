@@ -1,0 +1,11 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+data/GLORIA_2022/
+mapping_01/
+figures/
+*.pt
+*.joblib
+*.npz
+*.tif
