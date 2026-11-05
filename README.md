@@ -19,3 +19,6 @@ small result tables.
   Adapted SOMLIT data are shared under the same licence.
 - [Rijkswaterstaat Waterdata](https://rijkswaterstaatdata.nl/waterdata/).
 - Satellite reflectance was derived from Copernicus Sentinel-2 and Sentinel-3 data.
+
+# Authors
+Arda Baysal, Emil Holub, Bagad Tikkavat
